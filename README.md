@@ -1,6 +1,6 @@
 # Hola, mi nombre es breativo 👋 
 ## Full Stack Developer
-![https://github.com/breativo](https://raw.githubusercontent.com/breativo/breativo/master/banner.png)
+![https://github.com/breativo](https://raw.githubusercontent.com/breativo/breativo/master/img/banner.png)
 
 
  [**breativo**](https://breativo.com)  nace del sueño de crecer como profesional dentro de la industria del desarrollo de software. En los ultimos años me especializado en lengujaes como JavaScript, Python, Kotlin, Swift...
@@ -12,6 +12,7 @@ El objetivo de breativo es devolver los conocimientos adquiridos durante estos a
 
 
 ## Tecnologías
+![https://github.com/breativo](https://raw.githubusercontent.com/breativo/breativo/master/img/android.png)
 
 </br>
 
