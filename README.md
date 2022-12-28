@@ -15,6 +15,8 @@ El objetivo de breativo es devolver los conocimientos adquiridos durante estos a
 ![Android_Studio](https://raw.githubusercontent.com/breativo/breativo/master/img/android.png)
 
 
+Otras tecnologias...
+
 
 ## Encuéntrame
 
