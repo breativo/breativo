@@ -14,7 +14,7 @@ El objetivo de breativo es devolver los conocimientos adquiridos durante estos a
 ## Tecnologías
 
 
-<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/android.png" alt="Android" width="100px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iOS.png" alt="iOS" width="100px">
+<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/android.png" alt="Android" width="100px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iOS.png" alt="iOS" width="100px">
 
 </br>
 
@@ -23,7 +23,7 @@ Otras tecnologias...
 
 ## Aplicaciones
 
-
+<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/visual code.png" alt="iOS" width="100px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/android studio.png" alt="iOS" width="100px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/intellij.png" alt="iOS" width="100px">
 ## Encuéntrame
 
 
