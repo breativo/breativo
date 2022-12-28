@@ -54,4 +54,4 @@ Otras tecnologías...
 ### Lenguaje: Python.
 ### Inicio curso: enero 2023.
 ### Descripción:  En este curso conoceras la programación general y las bases de programación orientada a objetos. Aprenderas a utilizar la sintaxis del lenguaje Python para diseñar programas sencillos. 
-<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/banner_cursopython.png" alt="Curso python" width="100px">
+<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/banner_cursopython.png" alt="Curso python" >
