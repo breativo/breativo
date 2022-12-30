@@ -44,7 +44,6 @@ Otras tecnologías...
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
-
 ## Nuevo curso en el canal
 
 
