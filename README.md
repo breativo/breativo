@@ -25,7 +25,7 @@ Otras tecnologías...
 
 ## Aplicaciones
 
-<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/visual code.png" alt="visual code" width="100px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/android studio.png" alt="android studio" width="100px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/intellij.png" alt="intellij" width="100px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/xCode.png" alt="xCode" width="100px">
+<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/visual code.png" alt="visual code" width="100px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/android studio.png" alt="android studio" width="100px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/intellij.png" alt="intellij" width="100px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/xCode.png" alt="xCode" width="100px">
 </br>
 
 ## Encuéntrame
