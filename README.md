@@ -37,21 +37,26 @@ Entre los editores de codigo que usa breativo para el desarrollo de los proyecto
 </br>
 <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_software/visual-studio.png" alt="visual code" width="50px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_software/android-studio.png" alt="android studio" width="50px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_software/intellij.png" alt="intellij" width="50px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_software/xcode.png" alt="xCode" width="50px">
 </br>
-Para el control de versiones Github (comando) o Gitkraken (gráfica). 
-</br>
-<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_software/github.png" alt="Github" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_software/gitkrakent.png" alt="Github" width="50px">
-
-
-</br>
-</br>
 
 ## Aplicaciones para el diseño gráfico.
+El diseño es una parte importante en el desarrollo de proyecto. Poseo conocimientos sobre diseño gráfico, los cuales aplico a mis aplicaciones y web. 
 </br>
-<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/photoshop.png" alt="adobe photoshop" width="100px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/xd.png" alt="adobe xd" width="100px"> 
+<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_adobe/adobe-photoshop.png" alt="adobe photoshop" width="50px"> 
+<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_adobe/adobe-ilustation.png" alt="adobe photoshop" width="50px"> 
+<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_adobe/adobe-xd.png" alt="adobe photoshop" width="50px"> 
+<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_adobe/adobe-premier.png" alt="adobe photoshop" width="50px"> 
+<img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_adobe/adobe-effect.png" alt="adobe photoshop" width="50px"> 
 </br>
 </br>
 
+## Más información
+...
+
 ## Encuéntrame
+Puedes encontrarme en las siguientes plataformas.
+</br>
+![https://github.com/breativo](https://raw.githubusercontent.com/breativo/breativo/master/img/img_breativo/Banner_negro.png)
+
 </br>
 
 [![YouTube](https://img.shields.io/badge/YouTube-breativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UC257J3j4W8gJFbuPJJxTs9w) 
