@@ -23,14 +23,12 @@ Los lennguajes que uso para el desarrollo de los diferentes proyectos, en sistem
 </br>
 <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/javascript.png" alt="javascript" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/java.png" alt="java" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/python.png" alt="python" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/kotlin.png" alt="kotlin" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/swift.png" alt="sweft" width="50px">
 </br>
-</br>
-
 
 Otras tecnologías...
 </br>
  <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/mongodb.png" alt="sweft" width="50px">
 </br>
-</br>
+
 
 ## Aplicaciones para el desarrollo de app y web.
 Entre los editores de codigo que usa breativo para el desarrollo de los proyectos se encuentran.
@@ -50,7 +48,10 @@ El diseño es una parte importante en el desarrollo de proyecto. Poseo conocimie
 </br>
 
 ## Más información
-...
+En breativo creamos cursos para la comuidad conozcan y adquieran los conocimientos para el desarrollo de proyectos en diferentes lenguajes.
+</br>
+ 
+
 
 ## Encuéntrame
 Puedes encontrarme en las siguientes plataformas.
