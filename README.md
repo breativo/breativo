@@ -50,7 +50,7 @@ El diseño es una parte importante en el desarrollo de proyecto. Poseo conocimie
 
 ## Python desde 0.
 ![https://github.com/breativo](https://raw.githubusercontent.com/breativo/breativo/master/img/img_cursos/curso_python.png)
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Python_by_breativo&style=social)](https://github.com/breativo/Python_by_breativo)
+[![Curso Python](https://img.shields.io/github/stars/breativo/Python_by_breativo?label=Python_by_breativo&style=social)](https://github.com/breativo/Python_by_breativo)
 </br>
 
 
