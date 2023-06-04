@@ -1,6 +1,6 @@
 # Hola, mi nombre es breativo  👋 
 ## Full Stack Developer
-![https://github.com/breativo](https://raw.githubusercontent.com/breativo/breativo/master/img/img_breativo/Banner_azul.png)
+![https://github.com/breativo](https://raw.githubusercontent.com/breativo/breativo/master/img/img_breativo/Banner_azul_negro.png)
 
 
 [**breativo**](https://breativo.com)  nace del sueño de crecer como profesional dentro de la industria del desarrollo de software. En los ultimos años me especializado en lenguajes como JavaScript, Python, Kotlin, Swift...
@@ -13,7 +13,6 @@ El objetivo de breativo es devolver los conocimientos adquiridos durante estos a
 ## Sistemas 
 En breativo desarrollamos aplicaciones para sistemas operativos moviles adroid e iOS. Como el desarrolo de de aplicaciones y paginas web.
 </br>
-</br>
 <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_sistemas/android blanco.png" alt="Android" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_sistemas/ios blanco.png" alt="iOS" width="50px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_sistemas/web blanco.png" alt="web" width="50px">
 </br>
 
@@ -22,7 +21,6 @@ Los lennguajes que uso para el desarrollo de los diferentes proyectos, en sistem
 </br>
 <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/javascript.png" alt="javascript" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/java.png" alt="java" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/python.png" alt="python" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/kotlin.png" alt="kotlin" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/swift.png" alt="sweft" width="50px">
 </br>
-
 Otras tecnologías...
 </br>
  <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/mongodb.png" alt="sweft" width="50px">
