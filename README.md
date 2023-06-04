@@ -16,7 +16,6 @@ En breativo desarrollamos aplicaciones para sistemas operativos moviles adroid e
 </br>
 <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_sistemas/android blanco.png" alt="Android" width="50px"><img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_sistemas/ios blanco.png" alt="iOS" width="50px"> <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_sistemas/web blanco.png" alt="web" width="50px">
 </br>
-</br>
 
 ## Tecnologías
 Los lennguajes que uso para el desarrollo de los diferentes proyectos, en sistemas moviles, escritorios o web se encuentras.
@@ -39,7 +38,7 @@ Entre los editores de codigo que usa breativo para el desarrollo de los proyecto
 </br>
 
 ## Aplicaciones para el diseño gráfico.
-El diseño es una parte importante en el desarrollo de proyecto. Poseo conocimientos sobre diseño gráfico, los cuales aplico a mis aplicaciones y web. 
+El diseño es una parte importante en el desarrollo de proyecto. Poseo conocimientos y experiencía en el diseño gráfico, los cuales aplico a mis aplicaciones y web. 
 </br>
 <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_adobe/adobe-photoshop.png" alt="adobe photoshop" width="50px"> 
 <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_adobe/adobe-ilustation.png" alt="adobe photoshop" width="50px"> 
