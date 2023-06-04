@@ -27,7 +27,9 @@ Los lennguajes que uso para el desarrollo de los diferentes proyectos, en sistem
 Otras tecnologías...
 </br>
  <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/mongodb.png" alt="sweft" width="50px">
+  <img src="https://raw.githubusercontent.com/breativo/breativo/master/img/iconos_lenguajes/mysql.png" alt="sweft" width="55px">
 </br>
+Y algunas más...
 
 
 ## Aplicaciones para el desarrollo de app y web.
@@ -47,14 +49,22 @@ El diseño es una parte importante en el desarrollo de proyecto. Poseo conocimie
 </br>
 </br>
 
-## Más información
-En breativo creamos cursos para la comuidad conozcan y adquieran los conocimientos para el desarrollo de proyectos en diferentes lenguajes.
+# Cursos breativo.
+
+## Python desde 0.
+![https://github.com/breativo](https://raw.githubusercontent.com/breativo/breativo/master/img/img_cursos/curso_python.png)
+[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso_Python&style=social)](https://github.com/mouredev/hello-python)
 </br>
+
+
+
  
+# Algunos vídeos del canal de YouTube.
+--
 
-
-## Encuéntrame
+# Encuéntrame
 Puedes encontrarme en las siguientes plataformas.
+</br>
 </br>
 ![https://github.com/breativo](https://raw.githubusercontent.com/breativo/breativo/master/img/img_breativo/Banner_negro.png)
 
@@ -65,9 +75,10 @@ Puedes encontrarme en las siguientes plataformas.
 [![Instagram](https://img.shields.io/badge/Instagram-@breativo-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/breativo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-breativo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/breativo/)
 [![Web](https://img.shields.io/badge/Web-breativo.com-1e8612?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://breativo.com)
+[![Email](https://img.shields.io/badge/mariobellogarcia@breativo.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mariobellogarcia@breativo.com)
+</br>
 
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 </br>
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
