@@ -49,14 +49,19 @@ El diseño es una parte importante en el desarrollo de proyecto. Poseo conocimie
 # Cursos breativo.
 
 ### [ <span style="color:#FFFFFF">**Python by breativo** </span> ](https://github.com/breativo/Python_by_breativo)
-![https://github.com/breativo/Python_by_breativo](https://raw.githubusercontent.com/breativo/breativo/master/img/img_cursos/curso_python_bybreativo.png)
+<image src="./img/img_cursos/curso_python_bybreativo.png" alt="Descripción de la imagen">
+
 [![Curso Python](https://img.shields.io/github/stars/breativo/Python_by_breativo?label=Python_by_breativo&style=social)](https://github.com/breativo/Python_by_breativo)
 </br>
 
 ###  <span style="color:#FFFFFF">**Proximos cursos by breativo** </span> 
 <image src="./img/img_cursos/curso_javascript_bybreativo.png" alt="Descripción de la imagen">
+
+[![Curso Python](https://img.shields.io/github/stars/breativo/Python_by_breativo?label=JavaScript_by_breativo&style=social)](https://github.com/breativo/Python_by_breativo)
 </br>     
 <image src="./img/img_cursos/curso_java_bybreativo.png" alt="Descripción de la imagen">
+
+[![Curso Python](https://img.shields.io/github/stars/breativo/Python_by_breativo?label=Java_by_breativo&style=social)](https://github.com/breativo/Python_by_breativo)
 
 
  
