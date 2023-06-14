@@ -53,7 +53,9 @@ El diseño es una parte importante en el desarrollo de proyecto. Poseo conocimie
 [![Curso Python](https://img.shields.io/github/stars/breativo/Python_by_breativo?label=Python_by_breativo&style=social)](https://github.com/breativo/Python_by_breativo)
 </br>
 
-###  <span style="color:#FFFFFF">**Proximo curso Java by breativo** </span> 
+###  <span style="color:#FFFFFF">**Proximos cursos by breativo** </span> 
+<image src="./img/img_cursos/curso_javascript.png" alt="Descripción de la imagen">
+</br>     
 <image src="./img/img_cursos/curso_java.png" alt="Descripción de la imagen">
 
 
