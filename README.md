@@ -106,11 +106,11 @@ Puedes encontrarme en las siguientes plataformas.
 
 # Algunos vídeos del canal de YouTube.
 
-## Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
-## Contacto y apoyo.
+### Contacto y apoyo.
 
 [![Email](https://img.shields.io/badge/mariobellogarcia@breativo.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mariobellogarcia@breativo.com)
 
