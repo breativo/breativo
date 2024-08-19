@@ -1,7 +1,22 @@
-# breativo!!
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://breativo.com">Mario Bello (breativo)</a> 👋</h1>
+</div>
+<img src="">
+
+## Sobre mi
+
+## Proyectos
+
+## Cursos
+
+## Videos YouTube
+
+### Otras *bombitas* 
+
+## Contacto y apoyo
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/breativo">
