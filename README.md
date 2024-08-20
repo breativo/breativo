@@ -29,7 +29,7 @@ Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, apor
 Puedes descargar [*MI CURRÍCULUM*](pdf/curriculum%20Mario%20Bello%20García.pdf).
 </br>
 
-También puedes visitar [MI WEB](https://www.breativo.com) o [MI WEB LINK](https://www.breativo.com).
+También puedes visitar [*MI WEB*](https://www.breativo.com) o [*MI WEB LINK*](https://www.breativo.com).
 
 ## Proyectos
 <div style="width: 70%; margin: 0 auto;">
