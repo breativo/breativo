@@ -24,7 +24,7 @@ Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, apor
 **Idea, Planificación, Desarrollo, Tests, Proyecto**
 <br>
 
-[*HABLAMOS*](htpps://www.breativo.com)
+[HABLAMOS](htpps://www.breativo.com)
 
 ## Proyectos
 
