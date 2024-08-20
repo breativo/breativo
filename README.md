@@ -18,6 +18,9 @@ Hola👋 mi nombre es *Mario Bello* con más de 5 años de experiencia en el des
 * **Diseño y Desarrollo Interactivo**: Creación de experiencias digitales dinámicas y atractivas.
 
 Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, aportando soluciones innovadoras y personalizadas.
+</br>
+</br>
+</br>
 
 <div align="center">
 *Un buen ciclo a la hora de desarrollar un proyecto te garantiza un proyecto final de 10.*
@@ -25,6 +28,8 @@ Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, apor
 
 **Idea, Planificación, Desarrollo, Tests, Proyecto**
 </div>
+</br>
+</br>
 </br>
 
 🔗Puedes descargar [*MI CURRÍCULUM*](pdf/curriculum%20Mario%20Bello%20García.pdf).
