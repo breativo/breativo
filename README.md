@@ -43,9 +43,10 @@ También puedes visitar [MI WEB](https://www.breativo.com) o [MI WEB LINK](https
         <p>
         Este repositorio contiene una colección de 100 retos de programación con soluciones implementadas en cuatro de los lenguajes más populares: Java, JavaScript, Python y Kotlin. Cada reto está diseñado para ayudarte a mejorar tus habilidades en la resolución de problemas, algoritmos y estructuras de datos.
         </br>
+        </br>
         <stronge>LENGUAJES: Java, JavaScript, Kotlin, Python.</stronge>
         </br>
-        <stronge>by breativo</stronge>
+        <stronge>AUTOR: by breativo</stronge>
         </p>
         </div>
     </tr>
