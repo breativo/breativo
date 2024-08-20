@@ -43,16 +43,6 @@ También puedes visitar [MI WEB](https://www.breativo.com) o [MI WEB LINK](https
 
 
 ## Contacto y apoyo
-[![X](https://img.shields.io/badge/X-@breativo-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/tu_usuario)
-
-[![YouTube](https://img.shields.io/badge/YouTube-@breativo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/c/tu_canal)
-
-[![Discord](https://img.shields.io/badge/Discord-breativo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/invite/tuinvitacion)
-
-[![Behance](https://img.shields.io/badge/behance-breativo-000000?style=for-the-badge&logo=behance&logoColor=white&labelColor=101010)](https://www.behance.net/tuperfil)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-breativo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tuperfil)
-</br>
 
 [![Email](https://img.shields.io/badge/email-mariobellogarcia@gmail.com-0149fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 
