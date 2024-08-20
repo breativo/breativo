@@ -58,7 +58,7 @@ También puedes visitar [*MI WEB*](https://www.breativo.com) o [*MI WEB LINK*](h
 ## Cursos
 
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
+<table style="width: 100%;">
     <tr></tr>
 </table>
 
