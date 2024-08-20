@@ -32,6 +32,25 @@ Puedes descargar [*MI CURRÍCULUM*](pdf/curriculum%20Mario%20Bello%20García.pdf
 También puedes visitar [MI WEB](https://www.breativo.com) o [MI WEB LINK](https://www.breativo.com).
 
 ## Proyectos
+<div style="width: 70%; margin: 0 auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
+    <tr>
+        <div style="border: 1px solid #ddd; padding: 10px;">
+        <h2 style="">100 RETOS BY BREATIVO</h2>
+        <a href="../100retos_bybreativo/README.md" target="_blank" style="margin-right: 10px;">
+        <img src="../100retos_bybreativo/img/header.png" alt="100 RETOS BY BREATIVO" width="" style=""/>
+        </a>
+        <p>
+        100 RETOS BY BREATIBO
+        </p>
+        </div>
+    </tr>
+    
+      
+    
+  </table>
+</div>
+
 
 
 ## Cursos
@@ -44,7 +63,8 @@ También puedes visitar [MI WEB](https://www.breativo.com) o [MI WEB LINK](https
 
 ## Contacto y apoyo
 
-[![Email](https://img.shields.io/badge/email-mariobellogarcia@gmail.com-0149fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/email_personal-mariobellogarcia@breativo.com-0149fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mariobellogarcia@breativo.com)
+[![Email](https://img.shields.io/badge/email-breativo@breativo.com-0149fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:breativo@breativo.com)
 
 ## GitHub Analytics
 
