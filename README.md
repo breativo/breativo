@@ -37,11 +37,15 @@ También puedes visitar [MI WEB](https://www.breativo.com) o [MI WEB LINK](https
     <tr>
         <div style="">
         <h3 style="">100 RETOS BY BREATIVO</h2>
-        <a href="../100retos_bybreativo/README.md" target="_blank" style="margin-right: 10px;">
+        <a href="https://github.com/breativo/100retos_bybreativo" target="_blank" style="margin-right: 10px;">
         <img src="img/retos_bybreativo.png" alt="100 RETOS BY BREATIVO" width="" style=""/>
         </a>
         <p>
         Este repositorio contiene una colección de 100 retos de programación con soluciones implementadas en cuatro de los lenguajes más populares: Java, JavaScript, Python y Kotlin. Cada reto está diseñado para ayudarte a mejorar tus habilidades en la resolución de problemas, algoritmos y estructuras de datos.
+        </br>
+        <stronge>LENGUAJES: Java, JavaScript, Kotlin, Python.</stronge>
+        </br>
+        <stronge>by breativo</stronge>
         </p>
         </div>
     </tr>
