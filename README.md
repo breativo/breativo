@@ -7,15 +7,15 @@
 ## Sobre mi
 **Full Stack Developer | iOS & Android App Creator | Branding & Interactive Design Expert**
 
-Hola👋 mi nombre es *Mario Bello* con más de 5 años⌛de experiencia en el desarrollo y diseño de soluciones digitales, me especializo en:
+Hola👋 mi nombre es *Mario Bello* con más de 5 años de experiencia en el desarrollo y diseño de soluciones digitales, me especializo en:
 
-* **Desarrollo Full Stack**💻: Creación de aplicaciones web completas, desde frontend hasta backend, con integración y gestión de bases de datos.
+* **Desarrollo Full Stack**: Creación de aplicaciones web completas, desde frontend hasta backend, con integración y gestión de bases de datos.
 
-* **Desarrollo de Aplicaciones Móviles**📲: Experiencia en iOS y Android utilizando lenguajes como Java, Kotlin y Python.
+* **Desarrollo de Aplicaciones Móviles**: Experiencia en iOS y Android utilizando lenguajes como Java, Kotlin y Python.
     
-* **Diseño y Branding de Marcas Personales**✨: Desarrollo integral de identidades visuales, desde la conceptualización hasta la implementación.
+* **Diseño y Branding de Marcas Personales**: Desarrollo integral de identidades visuales, desde la conceptualización hasta la implementación.
     
-* **Diseño y Desarrollo Interactivo**🪄: Creación de experiencias digitales dinámicas y atractivas.
+* **Diseño y Desarrollo Interactivo**: Creación de experiencias digitales dinámicas y atractivas.
 
 Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, aportando soluciones innovadoras y personalizadas.
 
