@@ -69,6 +69,7 @@ También puedes visitar [MI WEB](https://www.breativo.com) o [MI WEB LINK](https
 ## Contacto y apoyo
 
 [![Email](https://img.shields.io/badge/email_personal-mariobellogarcia@breativo.com-0149fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mariobellogarcia@breativo.com)
+</BR>
 [![Email](https://img.shields.io/badge/email-breativo@breativo.com-0149fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:breativo@breativo.com)
 
 ## GitHub Analytics
