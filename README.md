@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://breativo.com">Mario Bello (breativo)</a> 👋</h1>
 </div>
-<img src="/img/header breativo.png">
+
+![Banner breativo](/img/header_breativo.png)
 
 ## Sobre mi
 **Full Stack Developer | iOS & Android App Creator | Branding & Interactive Design Expert**
@@ -24,8 +25,7 @@ Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, apor
 **Idea, Planificación, Desarrollo, Tests, Proyecto**
 <br>
 
-[HABLAMOS](htpps://www.breativo.com)
-
+[HABLAMOS](https://www.breativo.com)
 ## Proyectos
 
 
