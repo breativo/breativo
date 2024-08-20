@@ -35,13 +35,13 @@ También puedes visitar [MI WEB](https://www.breativo.com) o [MI WEB LINK](https
 <div style="width: 70%; margin: 0 auto;">
   <table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
     <tr>
-        <div style="border: 1px solid #ddd; padding: 10px;">
-        <h2 style="">100 RETOS BY BREATIVO</h2>
+        <div style="">
+        <h3 style="">100 RETOS BY BREATIVO</h2>
         <a href="../100retos_bybreativo/README.md" target="_blank" style="margin-right: 10px;">
-        <img src="../100retos_bybreativo/img/header.png" alt="100 RETOS BY BREATIVO" width="" style=""/>
+        <img src="img/retos_bybreativo.png" alt="100 RETOS BY BREATIVO" width="" style=""/>
         </a>
         <p>
-        100 RETOS BY BREATIBO
+        Este repositorio contiene una colección de 100 retos de programación con soluciones implementadas en cuatro de los lenguajes más populares: Java, JavaScript, Python y Kotlin. Cada reto está diseñado para ayudarte a mejorar tus habilidades en la resolución de problemas, algoritmos y estructuras de datos.
         </p>
         </div>
     </tr>
