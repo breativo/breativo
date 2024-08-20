@@ -19,12 +19,13 @@ Mi nombre es *Mario Bello* Con más de 5 años de experiencia en el desarrollo y
 
 Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, aportando soluciones innovadoras y personalizadas.
 
+<div align="center">
 *Un buen ciclo a la hora de desarrollar un proyecto te garantiza un proyecto final de 10.*
 </br>
 
 **Idea, Planificación, Desarrollo, Tests, Proyecto**
+</div>
 </br>
-
 
 Puedes descargar [*MI CURRÍCULUM*](pdf/curriculum%20Mario%20Bello%20García.pdf).
 </br>
@@ -64,16 +65,7 @@ También puedes visitar [*MI WEB*](https://www.breativo.com) o [*MI WEB LINK*](h
 
 ## Videos YouTube
 
-<table style="width:100%">
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
 ### Otras *bombitas* 
-
 
 ## Contacto y apoyo
 
