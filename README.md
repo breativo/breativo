@@ -32,14 +32,15 @@ Puedes descargar [*MI CURRÍCULUM*](pdf/curriculum%20Mario%20Bello%20García.pdf
 También puedes visitar [*MI WEB*](https://www.breativo.com) o [*MI WEB LINK*](https://www.breativo.com).
 
 ## Proyectos
-<div style="width: 70%; margin: 0 auto;">
-  <table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
+
+<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
     <tr>
-        <div style="">
-        <h3 style="">100 RETOS BY BREATIVO</h2>
+        <h3 style="text-align: center; color:#319b99">100 RETOS BY BREATIVO</h2>
         <a href="https://github.com/breativo/100retos_bybreativo" target="_blank" style="margin-right: 10px;">
         <img src="img/retos_bybreativo.png" alt="100 RETOS BY BREATIVO" width="" style=""/>
         </a>
+        </br>
+        </br>
         <p>
         Este repositorio contiene una colección de 100 retos de programación con soluciones implementadas en cuatro de los lenguajes más populares: Java, JavaScript, Python y Kotlin. Cada reto está diseñado para ayudarte a mejorar tus habilidades en la resolución de problemas, algoritmos y estructuras de datos.
         </br>
@@ -48,20 +49,28 @@ También puedes visitar [*MI WEB*](https://www.breativo.com) o [*MI WEB LINK*](h
         </br>
         <stronge>AUTOR: by breativo</stronge>
         </p>
-        </div>
     </tr>
-    
-      
-    
-  </table>
-</div>
+</table>
+
 
 
 
 ## Cursos
 
 
+<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
+    <tr></tr>
+</table>
+
 ## Videos YouTube
+
+<table style="width:100%">
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 ### Otras *bombitas* 
 
