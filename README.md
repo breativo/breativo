@@ -23,6 +23,7 @@ Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, apor
 </br>
 
 <div align="center">
+
 *Un buen ciclo a la hora de desarrollar un proyecto te garantiza un proyecto final de 10.*
 </br>
 
@@ -30,9 +31,6 @@ Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, apor
 </div>
 </br>
 </br>
-</br>
-
-🔗Puedes descargar [*MI CURRÍCULUM*](pdf/curriculum%20Mario%20Bello%20García.pdf).
 </br>
 
 💻También puedes visitar [*MI WEB*](https://www.breativo.com) o [*MI WEB LINK*](https://www.breativo.com).
