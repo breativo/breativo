@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://breativo.com">Mario Bello (breativo)</a> 👋</h1>
 </div>
 
-![Banner breativo](/img/header_breativo.png)
+![Banner breativo](/img/breativo.png)
 
 ## Sobre mi
 **Full Stack Developer | iOS & Android App Creator | Branding & Interactive Design Expert**
