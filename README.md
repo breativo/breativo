@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://breativo.com">Mario Bello (breativo)</a> 👋</h1>
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin: auto">
     <img src="https://github.com/breativo/breativo/blob/master/img/logo_breativo.png" 
          alt="Banner breativo" 
          width="50%" />
