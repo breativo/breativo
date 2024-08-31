@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://breativo.com">Mario Bello (breativo)</a> 👋</h1>
 </div>
 
-  <img src="" alt="Banner breattivo" width="" style=""/>
+  <img src="https://github.com/breativo/breativo/blob/master/img/logo_breativo.png" alt="Banner breattivo" width="50%" style=""/>
 
 ## Sobre mi
 **Full Stack Developer | iOS & Android App Creator | Branding & Interactive Design Expert**
@@ -41,7 +41,7 @@ Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, apor
     <tr>
         <h3 style="text-align: center; color:#319b99">100 RETOS BY BREATIVO</h2>
         <a href="https://github.com/breativo/100retos_bybreativo" target="_blank" style="margin-right: 10px;">
-        <img src="" alt="100 RETOS BY BREATIVO" width="" style=""/>
+        <img src="https://github.com/breativo/breativo/blob/master/img/100retos_bybreativo.png" alt="100 RETOS BY BREATIVO" width="" style=""/>
         </a>
         </br>
         </br>
