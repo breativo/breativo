@@ -2,10 +2,11 @@
 <h1 align="center">Hola, soy <a href="https://breativo.com">Mario Bello (breativo)</a> 👋</h1>
 </div>
 
- <img src="https://github.com/breativo/breativo/blob/master/img/logo_breativo.png" 
-     alt="Banner breativo" 
-     width="50%" 
-     style="display: block; margin: auto;" />
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/breativo/breativo/blob/master/img/logo_breativo.png" 
+         alt="Banner breativo" 
+         width="50%" />
+</div>
 
 
 ## Sobre mi
