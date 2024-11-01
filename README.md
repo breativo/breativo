@@ -46,7 +46,7 @@ Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, apor
     <tr>
         <h3 style="text-align: center; color:#319b99">100 RETOS BY BREATIVO</h2>
         <a href="https://github.com/breativo/100retos_bybreativo" target="_blank" style="margin-right: 10px;">
-        <img src="https://github.com/breativo/breativo/blob/master/img/100retos_bybreativo.png" alt="100 RETOS BY BREATIVO" width="" style=""/>
+        <img src="https://github.com/breativo/breativo/blob/master/img/Retos_programación_bybreativo.png" alt="100 RETOS BY BREATIVO" width="" style=""/>
         </a>
         </br>
         </br>
