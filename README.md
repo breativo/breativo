@@ -24,8 +24,7 @@ Hola👋 mi nombre es *Mario Bello* con más de 5 años de experiencia en el des
 
 Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, aportando soluciones innovadoras y personalizadas.
 </br>
-</br>
-</br>
+
 
 <div align="center">
 
@@ -34,33 +33,11 @@ Mi enfoque combina habilidades técnicas con un fuerte sentido del diseño, apor
 
 **Idea, Planificación, Desarrollo, Tests, Proyecto**
 </div>
-</br>
-</br>
-</br>
+
 
 💻También puedes visitar [*MI WEB*](https://www.breativo.com) o [*MI WEB LINK*](https://www.breativo.com).
 
 ## Proyectos
-
-<table style="width: 100%; border-collapse: collapse; margin: 20px auto;">
-    <tr>
-        <h3 style="text-align: center; color:#319b99">100 RETOS BY BREATIVO</h2>
-        <a href="https://github.com/breativo/100retos_bybreativo" target="_blank" style="margin-right: 10px;">
-        <img src="https://github.com/breativo/breativo/blob/master/img/Retos_programación_bybreativo.png" alt="100 RETOS BY BREATIVO" width="" style=""/>
-        </a>
-        </br>
-        </br>
-        <p>
-        Este repositorio contiene una colección de 100 retos de programación con soluciones implementadas en cuatro de los lenguajes más populares: Java, JavaScript, Python y Kotlin. Cada reto está diseñado para ayudarte a mejorar tus habilidades en la resolución de problemas, algoritmos y estructuras de datos.
-        </br>
-        </br>
-        <stronge>LENGUAJES: Java, JavaScript, Kotlin, Python.</stronge>
-        </br>
-        <stronge>AUTOR: by breativo</stronge>
-        </p>
-    </tr>
-</table>
-
 
 
 
